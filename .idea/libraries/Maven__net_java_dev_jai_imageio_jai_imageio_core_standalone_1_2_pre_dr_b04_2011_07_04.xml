@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.java.dev.jai-imageio:jai-imageio-core-standalone:1.2-pre-dr-b04-2011-07-04">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jai-imageio/jai-imageio-core-standalone/1.2-pre-dr-b04-2011-07-04/jai-imageio-core-standalone-1.2-pre-dr-b04-2011-07-04.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jai-imageio/jai-imageio-core-standalone/1.2-pre-dr-b04-2011-07-04/jai-imageio-core-standalone-1.2-pre-dr-b04-2011-07-04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jai-imageio/jai-imageio-core-standalone/1.2-pre-dr-b04-2011-07-04/jai-imageio-core-standalone-1.2-pre-dr-b04-2011-07-04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
