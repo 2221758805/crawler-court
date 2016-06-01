@@ -1,6 +1,6 @@
 ---
 title: 法院公开信息爬取
-description: htmlunit + tess4j爬取法院公开信息(被执行人、失信被执行人、审判流程等信息)<br/><br/>htmlunit 是一款开源的java 页面分析工具，读取页面后，可以有效的使用htmlunit分析页面上的内容。项目可以模拟浏览器运行，被誉为java浏览器的开源实现。是一个没有界面的浏览器，运行速度迅速。<br/><br/>tess4j安装请参考[Tesseract-OCR图片识别 + tess4j](/2016/05/26/Tesseract-OCR图片识别/)<br/><br/>项目地址：https://github.com/zhangrenhua/dataload
+description: htmlunit + tess4j爬取法院公开信息(被执行人、失信被执行人、审判流程等信息)<br/><br/>htmlunit 是一款开源的java 页面分析工具，读取页面后，可以有效的使用htmlunit分析页面上的内容。项目可以模拟浏览器运行，被誉为java浏览器的开源实现。是一个没有界面的浏览器，运行速度迅速。<br/><br/>tess4j安装请参考[Tesseract-OCR图片识别 + tess4j](/2016/05/26/Tesseract-OCR图片识别/)<br/><br/>项目地址：https://github.com/zhangrenhua/crawler-court
 tags: [htmlunit, ocr]
 categories: 爬虫
 date: 2016-6-1 14:49:35
@@ -15,7 +15,7 @@ htmlunit 是一款开源的java 页面分析工具，读取页面后，可以有
 
 tess4j安装请参考[Tesseract-OCR图片识别 + tess4j](/2016/05/26/Tesseract-OCR图片识别/)
 
-项目地址：https://github.com/zhangrenhua/dataload
+项目地址：https://github.com/zhangrenhua/crawler-court
 
 ## 项目功能
 
