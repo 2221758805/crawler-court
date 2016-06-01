@@ -22,18 +22,18 @@ tess4j安装请参考[Tesseract-OCR图片识别 + tess4j](/2016/05/26/Tesseract-
 本项目采用HtmlUnit + Tess4j，主要用来爬取法院公开信息。其中功能细节如下：
 
 **数据层面**
-1、法院被执行人 - http://zhixing.court.gov.cn/search/
-2、法院失信被执行人 - http://shixin.court.gov.cn/
+<br/>1、法院被执行人 - http://zhixing.court.gov.cn/search/
+<br/>2、法院失信被执行人 - http://shixin.court.gov.cn/
 
 **图片解析**
-1、无噪音纯字母数字组合
-2、有背景噪音纯字母数字组合
+<br/>1、无噪音纯字母数字组合
+<br/>2、有背景噪音纯字母数字组合
 
 **数据格式**
-返回json格式
+<br/>返回json格式
 
 **待开发**
-审判流程信息 - http://splcgk.court.gov.cn/splcgk/
+<br/>审判流程信息 - http://splcgk.court.gov.cn/splcgk/
 
 ## 测试
 
